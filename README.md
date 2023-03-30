@@ -28,7 +28,7 @@ C、净日志 使用精简本体制作，加入防更新，无内置模块
 
 精简参考体积 释放286 基础592 使用800
 
-![1](./QQSyRadiant/images/1.png)
+![1](./images/1.png)
 ![2](./QQSyRadiant/images/2.png)
 ![3](./QQSyRadiant/images/3.png)
 
