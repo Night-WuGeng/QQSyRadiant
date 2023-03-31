@@ -4,7 +4,8 @@
 
 <p align="center">
   酷安@水月澜花，一个基于QQ的修改项目
-</p>
+<br />
+    <a href="https://t.me/SyRadiant" target="blank"><strong>💬 加入交流群</strong></a>
 
 # 更新日志
 
@@ -28,13 +29,13 @@ C、净日志 使用精简本体制作，加入防更新，无内置模块
 
 精简参考体积 释放286 基础592 使用800
 
+# 赞助一点Coffee
+
+![赞助](./images/赞助.png)
+
 ![1](./images/1.png)
 
 ![2](./images/2.png)
 
 ![3](./images/3.png)
 
-
-# 赞助一点Coffee
-
-![赞助](./images/赞助.png)
