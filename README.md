@@ -52,4 +52,4 @@ C、净日志 使用精简本体制作，加入防更新，无内置模块，特
 
 ## [通用许可协议](https://github.com/qwq233/License/blob/master/v2/LICENSE.md)
 
-##禁止催更
+# 禁止催更
