@@ -6,7 +6,7 @@
 <br />
     <a href="http://www.coolapk.com/u/2457301" target="blank"><strong>🌎 访问作者主页</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="https://t.me/SyRadiant" target="blank"><strong>💬 加入交流群</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href=https://github.com/Night-WuGeng/QQSyRadiant/releases" target="blank"><strong>📦️ 下载安装包</strong></a>
+    <a href="https://github.com/Night-WuGeng/QQSyRadiant/releases" target="blank"><strong><strong>📦️ 下载安装包</strong></a>
 </p>
 
 ---
