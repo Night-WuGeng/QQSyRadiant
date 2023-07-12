@@ -6,10 +6,9 @@
 <br />
     <a href="http://www.coolapk.com/u/2457301" target="blank"><strong>🌎 访问作者主页</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="https://t.me/SyRadiant" target="blank"><strong>💬 加入交流群</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://github.com/Night-WuGeng/QQSyRadiant/releases" target="blank"><strong><strong>📦️ 下载安装包</strong></a>
-</p>
-
----
+    <a href="https://github.com/Night-WuGeng/QQSyRadiant/releases" target="blank"><strong>📦️ 下载安装包</strong></a>
+  
+  ---
 
 ## 基于本项目特殊性，请阅读该许可协议： [通用许可协议](https://github.com/qwq233/License/blob/master/v2/LICENSE.md)
 并明确以下需要特别对您说明的内容：
@@ -55,7 +54,7 @@
 * [爱发电](https://afdian.net/a/SyRadiant)
 - 由于项目的特殊性，该赞助明确与项目无关，本项目完全免费，仅仅作为用户喜欢作者捐赠打赏，本项目不贩卖软件，所有内容不作为商业行为。
 - 特别标注：SyRadiant中出现的赞助版非通过赞助获得，获取途径不是商业行为，非赞助而获取，仅作为喜爱作者的赞助捐赠为限制赞助版流通的措施。
-- 赞助版是水月推出的一个二次元化SyRadiant，与公开发行版QQSyRadiant无任何功能差异，为喜爱二次元的人，大家一起suki，嘿嘿~
+- 赞助版是水月推出的一个二次元化SyRadiant，与公开发行版QQSyRadiant无任何功能差异，为喜爱二次元的人，大家一起suki，嘿嘿~，基于赞助限流，请大家不要传播哦~真的会害死我的欸啦喵
 
 ## README灵感来源 / 感谢
 * [QAuxiliary](https://github.com/cinit/QAuxiliary)
